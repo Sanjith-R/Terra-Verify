@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Land Record Digitization and Validation System",
+  "description": "Government-grade digital land records platform for digitizing, validating, verifying, and managing legacy land records with OCR, ULPIN, and GIS mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
